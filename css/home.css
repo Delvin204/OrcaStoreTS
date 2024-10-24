@@ -1,0 +1,15 @@
+.product-card{
+    transition: transform 0.3s ease-in-out;
+}
+
+.product-card:hover{
+    transform: scale(1.05);
+}
+
+.top-card{
+    transition: transform 0.3s ease-in-out;
+}
+
+.top-card:hover{
+    transform: scale(1.05);
+}

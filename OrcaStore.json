@@ -1,0 +1,358 @@
+{
+    "product": [
+        {
+            "id": 1,
+            "image": "image/Games/Allan Wake 2_1.124.500.jpg",
+            "name": "Allan Wake 2",
+            "price": 1124500,
+            "type": "Horror",
+            "releaseDate": "2023-10-27",
+            "developer": "Remedy Entertainment",
+            "publisher": "Orca Store",
+            "largeImageUrl": "image/Product/Allan Wake 2.jpg",
+            "buyCount": 0
+        },
+        {
+            "id": 2,
+            "image": "image/Games/Avatar Frontiers of Pandora_892.500.jpg",
+            "name": "Avatar Frontiers of Pandora",
+            "price": 892500,
+            "type": "Adventure",
+            "releaseDate": "2023-12-07",
+            "developer": "Massive Entertainment",
+            "publisher": "Orca Store",
+            "largeImageUrl": "image/Product/Avatar Frontiers of Pandora.jpg",
+            "buyCount": 0
+        },
+        {
+            "id": 3,
+            "image": "image/Games/Dead by Daylight_260.000.jpg",
+            "name": "Dead by Daylight",
+            "price": 260000,
+            "type": "Horror",
+            "releaseDate": "2021-12-09",
+            "developer": "Behaviour Interactive",
+            "publisher": "Orca Store",
+            "largeImageUrl": "image/Product/Dead by Daylight.jpg",
+            "buyCount": 0
+        },
+        {
+            "id": 4,
+            "image": "image/Games/Dead Island 2_1.000.000.jpg",
+            "name": "Dead Island 2",
+            "price": 1000000,
+            "type": "Action",
+            "releaseDate": "2023-04-21",
+            "developer": "Deep Silver Dambuster Studios",
+            "publisher": "Orca Store",
+            "largeImageUrl": "image/Product/Dead Island 2.jpg",
+            "buyCount": 0
+        },
+        {
+            "id": 5,
+            "image": "image/Games/Dying Light 2 Stay Human_560.000.jpg",
+            "name": "Dying Light Franchise Bundle",
+            "price": 560000,
+            "type": "Action",
+            "releaseDate": "2022-02-04",
+            "developer": "Techland",
+            "publisher": "Orca Store",
+            "largeImageUrl": "image/Product/Dying Light 2 Stay Human.jpg",
+            "buyCount": 0
+        },
+        {
+            "id": 6,
+            "image": "image/Games/Grand Theft Auto V Premium Edition 455.500.jpg",
+            "name": "Grand Theft Auto V Premium Edition",
+            "price": 455500,
+            "type": "Adventure",
+            "releaseDate": "2020-05-14",
+            "developer": "Rockstar Games",
+            "publisher": "Orca Store",
+            "largeImageUrl": "image/Product/Grand Theft Auto V Premium Edition.jpg",
+            "buyCount": 0
+        },
+        {
+            "id": 7,
+            "image": "image/Games/Prince of Persia The Lost Crown_790.000.jpg",
+            "name": "Prince of Persia The Lost Crown",
+            "price": 790000,
+            "type": "Action",
+            "releaseDate": "2024-01-18",
+            "developer": "UBISOFT MONTPELLIER",
+            "publisher": "Orca Store",
+            "largeImageUrl": "image/Product/Prince of Persia The Lost Crown.jpg",
+            "buyCount": 0
+        },
+        {
+            "id": 8,
+            "image": "image/Games/The Lord of The Rings Return to Moria_418.000.jpg",
+            "name": "The Lord of The Rings Return to Moria",
+            "price": 418000,
+            "type": "Survival",
+            "releaseDate": "2023-10-24",
+            "developer": "Free Range Games",
+            "publisher": "Orca Store",
+            "largeImageUrl": "image/Product/The Lord of The Rings Return to Moria.jpg",
+            "buyCount": 0
+        }
+    ],
+    "accounts": [
+        {
+            "username": "john_doe@example.com",
+            "password": "defaultPass",
+            "role": true
+        },
+        {
+            "username": "jane_smith@example.com",
+            "password": "defaultPass",
+            "role": false
+        },
+        {
+            "username": "alice_jones@example.com",
+            "password": "defaultPass",
+            "role": false
+        },
+        {
+            "username": "bob_brown@example.com",
+            "password": "defaultPass",
+            "role": false
+        },
+        {
+            "username": "carol_white@example.com",
+            "password": "defaultPass",
+            "role": false
+        }
+    ],
+    "carts": [],
+    "userInfos": [
+        {
+            "username": "john_doe@example.com",
+            "fullname": "John Doe",
+            "birthday": "1990-01-15",
+            "gender": true,
+            "phoneNumber": "123-456-7890"
+        },
+        {
+            "username": "jane_smith@example.com",
+            "fullname": "Jane Smith",
+            "birthday": "1985-05-20",
+            "gender": false,
+            "phoneNumber": "234-567-8901"
+        },
+        {
+            "username": "alice_jones@example.com",
+            "fullname": "Alice Jones",
+            "birthday": "1992-07-30",
+            "gender": false,
+            "phoneNumber": "345-678-9012"
+        },
+        {
+            "username": "bob_brown@example.com",
+            "fullname": "Bob Brown",
+            "birthday": "1988-11-25",
+            "gender": true,
+            "phoneNumber": "456-789-0123"
+        },
+        {
+            "username": "carol_white@example.com",
+            "fullname": "Carol White",
+            "birthday": "1995-09-10",
+            "gender": false,
+            "phoneNumber": "567-890-1234"
+        }
+    ],
+    "buyHistories": [],
+    "banner": [
+        {"url": "gi.jpg"},
+        {"url": "hi.jpg"},
+        {"url": "lol.jpg"},
+        {"url": "pubg.jpg"}
+    ],
+    "topSeller": [
+        {
+          "id": 1,
+          "image": "image/Games/Allan Wake 2_1.124.500.jpg",
+          "name": "Allan Wake 2",
+          "price": 1124500,
+          "type": "Horror",
+          "releaseDate": "2023-10-27",
+          "developer": "Remedy Entertainment",
+          "publisher": "Orca Store",
+          "largeImageUrl": "image/Product/Allan Wake 2.jpg",
+          "buyCount": 0
+        },
+        {
+          "id": 6,
+          "image": "image/Games/Grand Theft Auto V Premium Edition 455.500.jpg",
+          "name": "Grand Theft Auto V Premium Edition",
+          "price": 455500,
+          "type": "Adventure",
+          "releaseDate": "2020-05-14",
+          "developer": "Rockstar Games",
+          "publisher": "Orca Store",
+          "largeImageUrl": "image/Product/Grand Theft Auto V Premium Edition.jpg",
+          "buyCount": 0
+        },
+        {
+          "id": 3,
+          "image": "image/Games/Dead by Daylight_260.000.jpg",
+          "name": "Dead by Daylight",
+          "price": 260000,
+          "type": "Horror",
+          "releaseDate": "2021-12-09",
+          "developer": "Behaviour Interactive",
+          "publisher": "Orca Store",
+          "largeImageUrl": "image/Product/Dead by Daylight.jpg",
+          "buyCount": 0
+        },
+        {
+          "id": 8,
+          "image": "image/Games/The Lord of The Rings Return to Moria_418.000.jpg",
+          "name": "The Lord of The Rings Return to Moria",
+          "price": 418000,
+          "type": "Survival",
+          "releaseDate": "2023-10-24",
+          "developer": "Free Range Games",
+          "publisher": "Orca Store",
+          "largeImageUrl": "image/Product/The Lord of The Rings Return to Moria.jpg",
+          "buyCount": 0
+        },
+        {
+          "id": 2,
+          "image": "image/Games/Avatar Frontiers of Pandora_892.500.jpg",
+          "name": "Avatar Frontiers of Pandora",
+          "price": 892500,
+          "type": "Adventure",
+          "releaseDate": "2023-12-07",
+          "developer": "Massive Entertainment",
+          "publisher": "Orca Store",
+          "largeImageUrl": "image/Product/Avatar Frontiers of Pandora.jpg",
+          "buyCount": 0
+        }
+      ],
+      "mostPlayed" : [
+        {
+            "id": 3,
+            "image": "image/Games/Dead by Daylight_260.000.jpg",
+            "name": "Dead by Daylight",
+            "price": 260000,
+            "type": "Horror",
+            "releaseDate": "2021-12-09",
+            "developer": "Behaviour Interactive",
+            "publisher": "Orca Store",
+            "largeImageUrl": "image/Product/Dead by Daylight.jpg",
+            "buyCount": 0
+          },
+          {
+            "id": 7,
+            "image": "image/Games/Prince of Persia The Lost Crown_790.000.jpg",
+            "name": "Prince of Persia The Lost Crown",
+            "price": 790000,
+            "type": "Action",
+            "releaseDate": "2024-01-18",
+            "developer": "UBISOFT MONTPELLIER",
+            "publisher": "Orca Store",
+            "largeImageUrl": "image/Product/Prince of Persia The Lost Crown.jpg",
+            "buyCount": 0
+          },
+          {
+            "id": 5,
+            "image": "image/Games/Dying Light 2 Stay Human_560.000.jpg",
+            "name": "Dying Light Franchise Bundle",
+            "price": 560000,
+            "type": "Action",
+            "releaseDate": "2022-02-04",
+            "developer": "Techland",
+            "publisher": "Orca Store",
+            "largeImageUrl": "image/Product/Dying Light 2 Stay Human.jpg",
+            "buyCount": 0
+          },
+          {
+            "id": 4,
+            "image": "image/Games/Dead Island 2_1.000.000.jpg",
+            "name": "Dead Island 2",
+            "price": 1000000,
+            "type": "Action",
+            "releaseDate": "2023-04-21",
+            "developer": "Deep Silver Dambuster Studios",
+            "publisher": "Orca Store",
+            "largeImageUrl": "image/Product/Dead Island 2.jpg",
+            "buyCount": 0
+          },
+          {
+            "id": 1,
+            "image": "image/Games/Allan Wake 2_1.124.500.jpg",
+            "name": "Allan Wake 2",
+            "price": 1124500,
+            "type": "Horror",
+            "releaseDate": "2023-10-27",
+            "developer": "Remedy Entertainment",
+            "publisher": "Orca Store",
+            "largeImageUrl": "image/Product/Allan Wake 2.jpg",
+            "buyCount": 0
+          }
+      ],
+      "topRating": [
+        {
+            "id": 5,
+            "image": "image/Games/Dying Light 2 Stay Human_560.000.jpg",
+            "name": "Dying Light Franchise Bundle",
+            "price": 560000,
+            "type": "Action",
+            "releaseDate": "2022-02-04",
+            "developer": "Techland",
+            "publisher": "Orca Store",
+            "largeImageUrl": "image/Product/Dying Light 2 Stay Human.jpg",
+            "buyCount": 0
+          },
+          {
+            "id": 3,
+            "image": "image/Games/Dead by Daylight_260.000.jpg",
+            "name": "Dead by Daylight",
+            "price": 260000,
+            "type": "Horror",
+            "releaseDate": "2021-12-09",
+            "developer": "Behaviour Interactive",
+            "publisher": "Orca Store",
+            "largeImageUrl": "image/Product/Dead by Daylight.jpg",
+            "buyCount": 0
+          },
+          {
+            "id": 8,
+            "image": "image/Games/The Lord of The Rings Return to Moria_418.000.jpg",
+            "name": "The Lord of The Rings Return to Moria",
+            "price": 418000,
+            "type": "Survival",
+            "releaseDate": "2023-10-24",
+            "developer": "Free Range Games",
+            "publisher": "Orca Store",
+            "largeImageUrl": "image/Product/The Lord of The Rings Return to Moria.jpg",
+            "buyCount": 0
+          },
+          {
+            "id": 2,
+            "image": "image/Games/Avatar Frontiers of Pandora_892.500.jpg",
+            "name": "Avatar Frontiers of Pandora",
+            "price": 892500,
+            "type": "Adventure",
+            "releaseDate": "2023-12-07",
+            "developer": "Massive Entertainment",
+            "publisher": "Orca Store",
+            "largeImageUrl": "image/Product/Avatar Frontiers of Pandora.jpg",
+            "buyCount": 0
+          },
+          {
+            "id": 1,
+            "image": "image/Games/Allan Wake 2_1.124.500.jpg",
+            "name": "Allan Wake 2",
+            "price": 1124500,
+            "type": "Horror",
+            "releaseDate": "2023-10-27",
+            "developer": "Remedy Entertainment",
+            "publisher": "Orca Store",
+            "largeImageUrl": "image/Product/Allan Wake 2.jpg",
+            "buyCount": 0
+          }
+      ]
+}
